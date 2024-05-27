@@ -1,6 +1,6 @@
 # Welcome to your Expo app 👋
 
-## rn-assignment2-ID-YourStudentID
+## rn-assignment2-ID-11256293
 
 This project is a simple React Native application created using Expo CLI. It displays a text with a customized background color and font styling.
 
