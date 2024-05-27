@@ -1,4 +1,4 @@
-# Welcome to your Expo app 👋
+# Welcome to my Expo app 👋
 
 ## rn-assignment2-ID-11256293
 
